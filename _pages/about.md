@@ -29,7 +29,7 @@ Source Code:<https://github.com/maojinxiang/SE-DCNet>
 - 全国大学生嵌入式芯片与系统设计竞赛(FPGA赛道) 国家级一等奖
 
 
-## Learning Records
+# Learning Records
 - 微波技术与天线那些事儿：<https://zhuanlan.zhihu.com/p/2019180996877121015>
 - 信息论与编码那些事儿：<https://zhuanlan.zhihu.com/p/2036000672462656087>
 - Verilog那些事儿：<https://zhuanlan.zhihu.com/p/2037492449539576439>
