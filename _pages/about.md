@@ -16,7 +16,7 @@ I am **Jinxiang Mao (毛锦翔)**, a third-year student at China University of P
 My primary research interests are UAV Detection,Deep Learning,Radio Frequency Technology and their intersections.
 
 # Education
-- 2023.09 —— now: In China University of Petroleum.
+- Sept.2023 — now: In China University of Petroleum.
 
 # My Research
 Paper : **SE-DCNet: Robust Dual-Channel Feature Learning for ISAC-Enabled UAV Identification**,this paper has been submitted to IEEE Communications Letters (CAS Zone 3). 
