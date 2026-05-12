@@ -26,8 +26,10 @@ Source Code:<https://github.com/maojinxiang/SE-DCNet>
 # Honors and Awards
 - 国家奖学金 (2024)
 - 国家奖学金 (2025)
-- 全国大学生嵌入式芯片与系统设计竞赛(FPGA赛道) 国家级一等奖
-
+- 全国大学生嵌入式芯片与系统设计竞赛(FPGA赛道)国家级一等奖
+- 山东省大学生物理创新大赛一等奖
+- 大唐杯工程实践赛山东省三等奖
+- 蓝桥杯单片机赛道山东省三等奖
 
 # Learning Records
 - 微波技术与天线那些事儿：<https://zhuanlan.zhihu.com/p/2019180996877121015>
