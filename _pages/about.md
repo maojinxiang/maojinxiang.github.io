@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 # Current
-I am looking for a master degree or Phd in communications Engineering.
+I am seeking a Master's or PhD degree in Communication Engineering.
 
 # Short Bio
-I am **Jinxiang Mao (毛锦翔)**, a third-year student at China University of Petroleum, major in Communications Engineering.
+I am **Jinxiang Mao (毛锦翔)**, a third-year student at China University of Petroleum, major in Communication Engineering.
 
 My primary research interests are UAV Detection,Deep Learning,Radio Frequency Technology and their intersections.
 
