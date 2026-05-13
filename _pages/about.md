@@ -41,6 +41,11 @@ Source Code:<https://github.com/maojinxiang/FPGA-ANLU-National-First-Prize>
 <div align="center">
 <img src="/images/FPGA_prize.png" alt="Personal Avatar" width="750">
 </div>
+<br>
+
+<div align="center">
+<img src="/images/threeman.jpg" alt="Personal Avatar" width="750">
+</div>
 
 
 
