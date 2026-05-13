@@ -42,8 +42,13 @@
     "vendor/font-awesome/brands"
 ;
 
-/* 强制英文/链接断行，永久解决换行留白问题 */
-* {
+/* 解决 Academic Pages 英文换行 & 两端对齐（最高优先级） */
+.page__content p,
+.page__content li,
+.page__content a,
+.page__content div {
+  text-align: justify !important;
+  text-justify: inter-word !important;
   word-break: break-word !important;
   overflow-wrap: break-word !important;
   hyphens: auto !important;
