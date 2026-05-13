@@ -11,20 +11,27 @@ redirect_from:
 I am seeking a Master's or PhD degree in Communication Engineering.
 
 # Short Bio
-I am **Jinxiang Mao (毛锦翔)**, a third-year student at China University of Petroleum, major in Communication Engineering.
+I am **Jinxiang Mao (毛锦翔)**, a third-year student at China University of Petroleum, major in Communication Engineering.I am diligent and hope to work in the field of Information and Communication Engineering in the future.
 
-My primary research interests are UAV Detection,Deep Learning,Radio Frequency Technology and their intersections.
+My primary research interests are UAV Detection,Deep Learning,Radio Frequency Technology,FPGA and their intersections.
 
 # Education
 - Sep.2020 — Jun.2023: In Zibo NO.4 Secondary School.
 - Sep.2023 — Now: In China University of Petroleum.
 
 # My Research
-**SE-DCNet: Robust Dual-Channel Feature Learning for ISAC-Enabled UAV Identification**,this paper has been submitted to IEEE Communications Letters (CAS Zone 3).
+**1. SE-DCNet: Robust Dual-Channel Feature Learning for ISAC-Enabled UAV Identification**,this paper has been submitted to IEEE Communications Letters (CAS Zone 3).
 
-Status：Under review
+Status: Under review
 
 Source Code:<https://github.com/maojinxiang/SE-DCNet>
+
+**2. DroneRFA_24-Dataset**: Homemade UAV Recognition Dataset Based on DroneRFA. A total of 24 categories (1 background category, 23 types of drones), this dataset makes it easy for everyone to quickly set up experiments.
+
+Source Code:<https://github.com/maojinxiang/DroneRFA_24-Dataset>
+
+
+# 
 
 # Honors and Awards
 - 国家奖学金 (2024)
@@ -33,6 +40,7 @@ Source Code:<https://github.com/maojinxiang/SE-DCNet>
 - 山东省大学生物理创新大赛一等奖
 - 大唐杯工程实践赛山东省三等奖
 - 蓝桥杯单片机赛道山东省三等奖
+
 
 # Learning Records
 - 微波技术与天线那些事儿：<https://zhuanlan.zhihu.com/p/2019180996877121015>
