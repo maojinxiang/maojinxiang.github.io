@@ -38,7 +38,9 @@ Source Code:<https://github.com/maojinxiang/DroneRFA_24-Dataset>
 
 Source Code:<https://github.com/maojinxiang/FPGA-ANLU-National-First-Prize>
 
-![Personal Avatar](/images/FPGA_prize.png)
+<div align="center">
+<img src="/images/FPGA_prize.png" alt="Personal Avatar" width="666">
+</div>
 
 
 # Honors and Awards
