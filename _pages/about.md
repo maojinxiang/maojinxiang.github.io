@@ -19,7 +19,9 @@ My primary research interests are UAV Detection,Deep Learning,Radio Frequency Te
 - Sept.2023 — now: In China University of Petroleum.
 
 # My Research
-Paper : **SE-DCNet: Robust Dual-Channel Feature Learning for ISAC-Enabled UAV Identification**,this paper has been submitted to IEEE Communications Letters (CAS Zone 3). 
+**SE-DCNet: Robust Dual-Channel Feature Learning for ISAC-Enabled UAV Identification**,this paper has been submitted to IEEE Communications Letters (CAS Zone 3).
+
+Status：Under review
 
 Source Code:<https://github.com/maojinxiang/SE-DCNet>
 
