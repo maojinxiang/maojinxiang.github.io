@@ -19,7 +19,7 @@ My primary research interests are UAV Detection,Deep Learning,Radio Frequency,FP
 - Sep.2020 — Jun.2023: In Zibo NO.4 Secondary School.
 - Sep.2023 — Now: In China University of Petroleum,major in Communication Engineering.
 
-# My Research
+# My Research and Achievements
 **1. SE-DCNet: Robust Dual-Channel Feature Learning for ISAC-Enabled UAV Identification**,this paper has been submitted to IEEE Communications Letters (CAS Zone 3).
 
 Status: Under review
