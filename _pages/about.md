@@ -28,6 +28,8 @@ Source Code:<https://github.com/maojinxiang/SE-DCNet>
 
 ![Personal Avatar](/images/flowchart.png)
 
+![Personal Avatar](/images/stftchart.png)
+
 **2. DroneRFA_24-Dataset**: Homemade UAV Recognition Dataset Based on DroneRFA. A total of 24 categories (1 background category, 23 types of drones), this dataset makes it easy for everyone to quickly set up experiments.
 
 Source Code:<https://github.com/maojinxiang/DroneRFA_24-Dataset>
