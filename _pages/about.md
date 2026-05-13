@@ -34,7 +34,7 @@ Source Code:<https://github.com/maojinxiang/SE-DCNet>
 
 Source Code:<https://github.com/maojinxiang/DroneRFA_24-Dataset>
 
-**3. FPGA Ethernet video transmission**:Built an Ethernet-based FPGA video transmission platform.Including 15 image processing algorithms, development of the PC-side host computer, transmission of SD images, setup of the Ethernet link, and so on.
+**3. Ethernet-based FPGA Data Transmission Platform**:Built an Ethernet-based FPGA data transmission platform.Including 15 image processing algorithms, development of the PC-side host computer, transmission of SD images, setup of the Ethernet link, and so on.
 
 Source Code:<https://github.com/maojinxiang/FPGA-ANLU-National-First-Prize>
 
