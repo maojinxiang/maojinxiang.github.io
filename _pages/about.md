@@ -39,9 +39,12 @@ Source Code:<https://github.com/maojinxiang/DroneRFA_24-Dataset>
 Source Code:<https://github.com/maojinxiang/FPGA-ANLU-National-First-Prize>
 
 <div align="center">
-<img src="/images/FPGA_prize.png" alt="Personal Avatar" width="666">
+<img src="/images/FPGA_prize.png" alt="Personal Avatar" width="750">
 </div>
 
+<div align="center">
+<img src="/images/threeman.jpg" alt="Personal Avatar" width="750">
+</div>
 
 # Honors and Awards
 - 国家奖学金 (2024)
