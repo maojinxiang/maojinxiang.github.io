@@ -363,3 +363,13 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
       display: none;
     }
   }
+
+/* 解决英文强制换行、行尾空白问题（全局生效） */
+p,
+li,
+a,
+div {
+  word-break: break-word !important;
+  overflow-wrap: break-word !important;
+  hyphens: auto !important;
+}
