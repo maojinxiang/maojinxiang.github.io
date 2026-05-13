@@ -31,8 +31,6 @@ Source Code:<https://github.com/maojinxiang/SE-DCNet>
 Source Code:<https://github.com/maojinxiang/DroneRFA_24-Dataset>
 
 
-# 
-
 # Honors and Awards
 - 国家奖学金 (2024)
 - 国家奖学金 (2025)
