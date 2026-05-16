@@ -59,6 +59,8 @@ Source Code:<https://github.com/maojinxiang/FPGA-ANLU-National-First-Prize>
 
 
 # Learning Records
+- 数字信号处理那些事儿：<https://zhuanlan.zhihu.com/p/2037960110891348475>
+- Transformer那些事儿：<https://zhuanlan.zhihu.com/p/2038627353631437486>
 - 微波技术与天线那些事儿：<https://zhuanlan.zhihu.com/p/2019180996877121015>
 - 信息论与编码那些事儿：<https://zhuanlan.zhihu.com/p/2036000672462656087>
 - Verilog那些事儿：<https://zhuanlan.zhihu.com/p/2037492449539576439>
