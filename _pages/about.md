@@ -59,10 +59,10 @@ Source Code:<https://github.com/maojinxiang/FPGA-ANLU-National-First-Prize>
 
 
 # Learning Records
-- Digital Signal Processing – Comprehensive insights and tutorials on DSP concepts, algorithms, and practical applications. https://zhuanlan.zhihu.com/p/2037960110891348475
-- Artificial Intelligence Models and Algorithms – In-depth exploration of AI frameworks, model architectures, and algorithmic principles. https://zhuanlan.zhihu.com/p/2040434635985920999
-- Transformers – Detailed explanations on Transformer models, their mechanisms, and applications in modern AI. https://zhuanlan.zhihu.com/p/2038627353631437486
-- Microwave Technology and Antennas – A focused study on microwave engineering, antenna design, and practical implementation techniques. https://zhuanlan.zhihu.com/p/2019180996877121015
-- Information Theory and Coding – Insights into information theory fundamentals, coding schemes, and their role in communication systems. https://zhuanlan.zhihu.com/p/2036000672462656087
-- Verilog Hardware Description Language – Tutorials and projects demonstrating FPGA/ASIC design and digital system modeling using Verilog. https://zhuanlan.zhihu.com/p/2037492449539576439
-- The Datang Cup Competition – Analysis and experiences from participation in the Datang Cup, focusing on engineering practice and embedded system design. https://zhuanlan.zhihu.com/p/2021539491949618172
+- Digital Signal Processing –  https://zhuanlan.zhihu.com/p/2037960110891348475
+- Artificial Intelligence Models and Algorithms – https://zhuanlan.zhihu.com/p/2040434635985920999
+- Transformers – https://zhuanlan.zhihu.com/p/2038627353631437486
+- Microwave Technology and Antennas –  https://zhuanlan.zhihu.com/p/2019180996877121015
+- Information Theory and Coding – https://zhuanlan.zhihu.com/p/2036000672462656087
+- Verilog Hardware Description Language – https://zhuanlan.zhihu.com/p/2037492449539576439
+- The Datang Cup Competition – https://zhuanlan.zhihu.com/p/2021539491949618172
