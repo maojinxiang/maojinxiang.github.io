@@ -11,7 +11,7 @@ redirect_from:
 I am seeking a Master's or PhD degree in Communication Engineering.
 
 # Short Bio
-I am **Jinxiang Mao (毛锦翔)**,a third-year student at China University of Petroleum(UPC),major in Communication Engineering.I am hard-working and hope to work in the field of Information and Communication Engineering in the future.
+I am **Jinxiang Mao**,a third-year student at China University of Petroleum(UPC),major in Communication Engineering.I am hard-working and hope to work in the field of Information and Communication Engineering in the future.
 
 My primary research interests are UAV Detection,Deep Learning,Radio Frequency,FPGA and their intersections.
 
@@ -50,19 +50,19 @@ Source Code:<https://github.com/maojinxiang/FPGA-ANLU-National-First-Prize>
 
 
 # Honors and Awards
-- 国家奖学金 (2024)
-- 国家奖学金 (2025)
-- 全国大学生嵌入式芯片与系统设计竞赛(FPGA赛道)国家级一等奖
-- 山东省大学生物理创新大赛一等奖
-- 大唐杯工程实践赛山东省三等奖
-- 蓝桥杯单片机赛道山东省三等奖
+- National Scholarship (2024)
+- National Scholarship (2025)
+- First Prize (Top 10 Nationwide), National Undergraduate Embedded Chip and System Design Competition (FPGA Track)
+- First Prize, Shandong Provincial Undergraduate Physics Innovation Competition
+- Third Prize, Datang Cup Engineering Practice Competition (Shandong Division)
+- Third Prize, Lanqiao Cup Microcontroller Competition (Shandong Division)
 
 
 # Learning Records
-- 数字信号处理那些事儿：<https://zhuanlan.zhihu.com/p/2037960110891348475>
-- 人工智能模型与算法那些事儿：<https://zhuanlan.zhihu.com/p/2040434635985920999>
-- Transformer那些事儿：<https://zhuanlan.zhihu.com/p/2038627353631437486>
-- 微波技术与天线那些事儿：<https://zhuanlan.zhihu.com/p/2019180996877121015>
-- 信息论与编码那些事儿：<https://zhuanlan.zhihu.com/p/2036000672462656087>
-- Verilog那些事儿：<https://zhuanlan.zhihu.com/p/2037492449539576439>
-- 大唐杯那些事儿：<https://zhuanlan.zhihu.com/p/2021539491949618172>
+- Digital Signal Processing – Comprehensive insights and tutorials on DSP concepts, algorithms, and practical applications. https://zhuanlan.zhihu.com/p/2037960110891348475
+- Artificial Intelligence Models and Algorithms – In-depth exploration of AI frameworks, model architectures, and algorithmic principles. https://zhuanlan.zhihu.com/p/2040434635985920999
+- Transformers – Detailed explanations on Transformer models, their mechanisms, and applications in modern AI. https://zhuanlan.zhihu.com/p/2038627353631437486
+- Microwave Technology and Antennas – A focused study on microwave engineering, antenna design, and practical implementation techniques. https://zhuanlan.zhihu.com/p/2019180996877121015
+- Information Theory and Coding – Insights into information theory fundamentals, coding schemes, and their role in communication systems. https://zhuanlan.zhihu.com/p/2036000672462656087
+- Verilog Hardware Description Language – Tutorials and projects demonstrating FPGA/ASIC design and digital system modeling using Verilog. https://zhuanlan.zhihu.com/p/2037492449539576439
+- The Datang Cup Competition – Analysis and experiences from participation in the Datang Cup, focusing on engineering practice and embedded system design. https://zhuanlan.zhihu.com/p/2021539491949618172
