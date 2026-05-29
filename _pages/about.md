@@ -58,11 +58,11 @@ Source Code:<https://github.com/maojinxiang/FPGA-ANLU-National-First-Prize>
 
 
 # Learning Records
-- Digital Signal Processing：<https://zhuanlan.zhihu.com/p/2037960110891348475>
-- Artificial Intelligence Models and Algorithms：<https://zhuanlan.zhihu.com/p/2040434635985920999>
-- Transformers：<https://zhuanlan.zhihu.com/p/2038627353631437486>
-- Microwave Technology and Antennas：<https://zhuanlan.zhihu.com/p/2019180996877121015>
-- Information Theory and Coding：<https://zhuanlan.zhihu.com/p/2036000672462656087>
-- Verilog Hardware Description Language：<https://zhuanlan.zhihu.com/p/2037492449539576439>
-- The Datang Cup Competition：<https://zhuanlan.zhihu.com/p/2021539491949618172>
+- 数字信号处理那些事儿：<https://zhuanlan.zhihu.com/p/2037960110891348475>
+- 人工智能模型与算法那些事儿：<https://zhuanlan.zhihu.com/p/2040434635985920999>
+- Transformer那些事儿：<https://zhuanlan.zhihu.com/p/2038627353631437486>
+- 微波技术与天线那些事儿：<https://zhuanlan.zhihu.com/p/2019180996877121015>
+- 信息论与编码那些事儿：<https://zhuanlan.zhihu.com/p/2036000672462656087>
+- Verilog那些事儿：<https://zhuanlan.zhihu.com/p/2037492449539576439>
+- 大唐杯那些事儿：<https://zhuanlan.zhihu.com/p/2021539491949618172>
 
