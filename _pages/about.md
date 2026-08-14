@@ -65,5 +65,4 @@ Source Code:<https://github.com/maojinxiang/FPGA-ANLU-National-First-Prize>
 - 信息论与编码那些事儿：<https://zhuanlan.zhihu.com/p/2036000672462656087>
 - Verilog那些事儿：<https://zhuanlan.zhihu.com/p/2037492449539576439>
 - 大唐杯那些事儿：<https://zhuanlan.zhihu.com/p/2021539491949618172>
-- 
 
