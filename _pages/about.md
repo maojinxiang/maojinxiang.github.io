@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-# Current
-I am seeking a Master's or PhD degree in Communication Engineering.
+# Current News
+I have joined the School of Artificial Intelligence, University of Chinese Academy of Sciences(UCAS) as a Master's student.
 
 # Short Bio
 I am **Jinxiang Mao(毛锦翔)**, a third-year student at China University of Petroleum(UPC), major in Communication Engineering. I am hard-working and hope to work in the field of Information and Communication Engineering in the future.
